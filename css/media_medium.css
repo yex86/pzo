@@ -1,0 +1,66 @@
+@media (min-width: 768px) and (max-width: 1024px) {
+/* header & footer deo */
+/* sredi txt,nav i linkove */
+header {
+  width: 100%;
+}
+/* nav bar */
+li {
+  font-size: 17px;
+}
+
+footer {
+  width: 100%;
+}  
+/* main index */
+.one {
+  width: 100%;
+}
+.two {
+  width: 100%;
+}
+/* main 2*/
+.two_box {
+  width: 400px;
+}
+.two_box1 {
+  width: 400px;
+}
+.two_box2 {
+  width: 400px;
+}
+.two2 {
+  width: 100%;
+}
+.three {
+  width: 100%;
+}
+/* main 3 */
+#wrapper {
+  width: 100%;
+}
+.four {
+  width: 100%;
+}
+.five {
+  width: 100%;
+}
+/* main members */
+.box1 {
+  width: 1000px;
+}
+.box2 {
+  width:1000px;
+}
+/* about main */
+.ab_box1 {
+  width: 1000px;
+}
+.ab_box2 {
+  width:1000px;
+}
+.ab_box3 {
+  width:1000px;
+}  
+}
+
